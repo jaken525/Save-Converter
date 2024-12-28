@@ -1,5 +1,5 @@
-#ifndef BINERYSTREAM_H
-#define BINERYSTREAM_H
+#ifndef BINARYSTREAM_H
+#define BINARYSTREAM_H
 
 #include <stdio.h>
 #include <iostream>
