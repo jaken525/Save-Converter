@@ -59,12 +59,12 @@ void SaveConverter::Convert()
 
     std::vector<std::string> records
     {
-        "qrderby_l 7865",
-        "bcderby1_l 3249",
-        "bcderby2_l 5624",
-        "bcderby3_l 8213",
-        "bcderby4_l 9532",
-        "bcderbywbc_l 11264",
+        "qrderby_l 12548",
+	"bcderby1_l 10284",
+	"bcderby2_l 6248",
+	"bcderby3_l 10987",
+	"bcderby4_l 2630",
+	"bcderbywbc_l 11264",
     };
 
     std::map<Car, int> allCars
