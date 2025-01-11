@@ -41,6 +41,7 @@ void SaveConverter::Convert()
         { Map(6, 1), "bccross3" },
         { Map(6, 3), "bccross4" },
         { Map(6, 4), "bccrosswbc" },
+	{ Map(2, 4), "bcspeedfc" },
         { Map(2, 0), "bcspeed1" },
         { Map(1, 0), "bcspeed2" },
         { Map(1, 1), "bcspeed3" },
