@@ -3,7 +3,7 @@ Beetle Crazy Cup Remake Save Converter
 
 ![s1](logo.png)
 
-Save converter from original Beetle Crazy Cup/Käfer Total/Radical Drive to Remake version.
+Save converter from original Beetle Crazy Cup/Beetle Buggin'/Käfer Total/Radical Drive to Remake version.
 
 The latest version of the converter will be delivered immediately with the game.
 
