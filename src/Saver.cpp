@@ -41,7 +41,7 @@ void SaveConverter::Convert()
         { Map(6, 1), "bccross3" },
         { Map(6, 3), "bccross4" },
         { Map(6, 4), "bccrosswbc" },
-	{ Map(2, 4), "bcspeedfc" },
+	    { Map(2, 4), "bcspeedfc" },
         { Map(2, 0), "bcspeed1" },
         { Map(1, 0), "bcspeed2" },
         { Map(1, 1), "bcspeed3" },
@@ -56,16 +56,27 @@ void SaveConverter::Convert()
         { Map(7, 5), "bcbbuggy2" },
         { Map(5, 5), "bcbbuggy1" },
         { Map(5, 7), "bcbmonster1" },
+        { Map(1, 4), "urockr" },
+        { Map(1, 4), "urockr1" },
+        { Map(1, 4), "urockrn" },
+        { Map(6, 8), "cnrsqrr" },
+        { Map(7, 0), "sharkbeatnr" },
+        { Map(2, 0), "snakealleyr" },
+        { Map(7, 7), "buggybeat" },
+        { Map(6, 0), "cnrdaylightr" },
+        { Map(6, 1), "cnrrainr" },
     };
 
     std::vector<std::string> records
     {
         "qrderby_l 12548",
-	"bcderby1_l 10284",
-	"bcderby2_l 6248",
-	"bcderby3_l 10987",
-	"bcderby4_l 2630",
-	"bcderbywbc_l 11264",
+	    "bcderby1_l 10284",
+	    "bcderby2_l 6248",
+	    "bcderby3_l 10987",
+	    "bcderby4_l 2630",
+	    "bcderbywbc_l 11264",
+        "sandsofrage_l 004539",
+        "sandsofrage_t 021896",
     };
 
     std::map<Car, int> allCars
